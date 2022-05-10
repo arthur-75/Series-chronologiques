@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Objectifs de la modélisation chronologique}{3}{section.2}%
+\contentsline {section}{\numberline {3}Les étapes suivants sont utilisé pour étudier la series}{3}{section.3}%
+\contentsline {section}{\numberline {4}Quels donnés}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Présentation}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Les données}{4}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Regrouper et organiser les donnés}{5}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Saisonnalité \& Tendance}{5}{section.5}%
+\contentsline {section}{\numberline {6}Test la stastionatité}{12}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Test ADF :}{12}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Test KPSS}{13}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}On applique les test}{13}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Moving average}{14}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Modélisation}{14}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Prédiction}{15}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}(Pour tester) Visualisation de la série(8 Valeurs) avec un intervalles de confiance}{16}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Visualisation de la série(32 Valeurs) avec un intervalles de confiance}{17}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Modélisation}{18}{subsection.7.5}%
+\contentsline {subsection}{\numberline {7.6}prediction}{20}{subsection.7.6}%
+\contentsline {subsection}{\numberline {7.7}Visualisation de la série la prédiction de: AR \& MA}{21}{subsection.7.7}%
+\contentsline {section}{\numberline {8}ARIAM}{23}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Modélisation et Prédictionn les prémiere 8 valeurs (Test)}{24}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Modélisation et Prédictionn les derneirs 8 valeurs (Test)}{24}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Modélisation et Prédictionn les valeurs manquants}{26}{subsection.8.3}%
+\contentsline {section}{\numberline {9}conclusion}{28}{section.9}%
