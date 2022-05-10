@@ -1,2 +1,2 @@
 # Sinistres-Primes-S-ries-chronologiques
-Sinistres-Primes-Séries chronologiques
+that was a school project Sinistres-Primes-Séries chronologiques
